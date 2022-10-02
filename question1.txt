@@ -1,0 +1,12 @@
+QUESTION 1 : 
+-> Five Method applicable to each data type is
+
+Extend() This Function will add the elements of a list (or any iterable), to the end of the current value
+
+Reverse() This function wull reverse the order of the list
+
+Pop() This function will remove the element at the specific position.
+
+Count() This Fucntion will return the number of elements with specified value.
+
+Append() This Function will add an element at the end of the list
